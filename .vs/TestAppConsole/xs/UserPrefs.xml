@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{96E29643-91F4-4A71-830D-2817055C656D}|Default">
+  <MonoDevelop.Ide.ItemProperties.TestAppConsole PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestAppConsole/Program.cs">
+    <Files>
+      <File FileName="TestAppConsole/Program.cs" Line="47" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestAppConsole" expanded="True">
+            <Node name="TestAppConsole" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/gayanperera/Projects/TestAppConsole/TestAppConsole/Program.cs" relfile="TestAppConsole/Program.cs" line="81" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

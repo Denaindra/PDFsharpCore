@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "t9XlKj3EzMS7zRJgfjGBq5gi/LZOCCjus9TEyZel6ADQnH/DTMiRHdf5bRsG6eRQEbdTeuOGNzvQELI1prW/+g==",
+  "success": true,
+  "projectFilePath": "/Users/gayanperera/Projects/TestAppConsole/TestAppConsole/TestAppConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/gayanperera/.nuget/packages/pdfsharpcore/1.2.16/pdfsharpcore.1.2.16.nupkg.sha512",
+    "/Users/gayanperera/.nuget/packages/sixlabors.fonts/1.0.0-beta0013/sixlabors.fonts.1.0.0-beta0013.nupkg.sha512",
+    "/Users/gayanperera/.nuget/packages/sixlabors.imagesharp/1.0.0/sixlabors.imagesharp.1.0.0.nupkg.sha512",
+    "/Users/gayanperera/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/gayanperera/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.0/system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
